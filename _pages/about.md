@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "钟青沅的个人主页"
+title: "钟青沅（Qingyuan Zhong）"
 author_profile: true
 redirect_from: 
   - /about/
@@ -49,7 +49,7 @@ redirect_from:
 - 健身：又菜又爱玩，卧推50kg（别骂了）
 - 游泳：养生蛙、自由泳、抬头蛙、仰蛙
 - 画画：漫画抽象风格。幼年曾于《漫画派对》读者专栏发布过植物大战僵尸同人四格漫画
-- 整活：与室友合拍抽象整活视频单播放达到100w
+- 整活：与室友合拍抽象整活视频单播放达到100w+
 
 
 
