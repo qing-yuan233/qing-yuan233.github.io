@@ -1,13 +1,60 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "钟青沅的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士一年级。2019 — 2023 就读于东华大学计算机科学与技术学院，获学士学位。研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
+
+挂个主页，我看看有没有人无聊来搜我。
+
+**邮箱：** zhongqy39@mail2.sysu.edu.cn
+
+**座右铭：** 我不想努力了
+
+**学术主页：**
+- Home Page: https://qing-yuan233.github.io/qingyuan-zhong.github.io/
+- Google Scholar: https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN
+
+**科研项目：**
+- 2024 — 2025，大语言模型恶意内容防御与正向引导，腾讯科研项目
+- 2023 — 2024，基于NLP和程序分析的DApp前后端不一致问题检测，蚂蚁集团科研横项
+- 2022 — 2023，PaperDevelop--基与版本管理的论文一站式培养系统，国家级大学生创新创业训练计划项目
+- 2022 — 2023，基于深度学习的篮🐔🏀球动作计数系统设计与实现，优秀毕业设计提名
+- 2021 — 2022，基于光度立体视觉的微小缺陷检测系统设计，国家级大学生创新创业训练计划项目
+
+**获奖荣誉：**
+- 2023：2023中山大学（珠海校区）校园十大歌手（第4名）
+- 2023：2023中山大学校园歌手大赛总决赛优秀奖
+- 2023：上海市优秀毕业生
+- 2022：第15届全国大学生计算机设计大赛一等奖（特色作品，全国前0.4%）
+- 2022：第14届上海市大学生计算机应用能力大赛一等奖（top1晋级）
+- 2021：2021年全国大学生数学建模竞赛上海市一等奖
+
+**发表论文：**
+- **Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**
+
+  Shuo Yang, Xingwei Lin, Jiachi Chen, <u>Qingyuan Zhong</u>, Lei Xiao, Renke Huang, Yanlin Wang, Zibin Zheng
+
+  In International Conference on Software Engineering. (**ICSE 2025, CCF-A**).
+
+**实习经历：**
+- 2022：浙江九州云信息科技有限公司，自动化运维开发
+
+**兴趣爱好：**
+- 唱歌：擅长华语流行，喜欢周杰伦、苏打绿、汪苏泷、黄霄云、陶喆、王力宏
+- 摄影：佳能党，擅长人像
+- 健身：又菜又爱玩，卧推50kg（别骂了）
+- 游泳：养生蛙、自由泳、抬头蛙、仰蛙
+- 画画：漫画抽象风格。幼年曾于《漫画派对》读者专栏发布过植物大战僵尸同人四格漫画
+- 整活：与室友合拍抽象整活视频单播放达到100w
+
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +93,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
