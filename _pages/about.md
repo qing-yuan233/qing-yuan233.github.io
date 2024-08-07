@@ -34,6 +34,13 @@ redirect_from:
 - 2021：2021年全国大学生数学建模竞赛上海市一等奖
 
 **发表论文：**
+- **RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code**
+
+  Jiachi Chen, <u>Qingyuan Zhong</u>, Yanlin Wang, Kaiwen Ning, Yongkun Liu, Zenan Xu, Zhe Zhao, Ting Chen, Zibin Zheng
+
+  In International Conference on Automated Software Engineering. (**ASE 2024, CCF-A**).
+
+
 - **Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**
 
   Shuo Yang, Xingwei Lin, Jiachi Chen, <u>Qingyuan Zhong</u>, Lei Xiao, Renke Huang, Yanlin Wang, Zibin Zheng
