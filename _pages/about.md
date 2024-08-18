@@ -19,13 +19,14 @@ redirect_from:
 - Google Scholar: https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN
 
 **科研项目：**
-- 2024 — 2025，大语言模型恶意内容防御与正向引导，腾讯科研项目
+- 2024 — 2025，大语言模型恶意内容防御与正向引导，腾讯犀牛鸟基金项目
 - 2023 — 2024，基于NLP和程序分析的DApp前后端不一致问题检测，蚂蚁集团科研横项
 - 2022 — 2023，PaperDevelop--基与版本管理的论文一站式培养系统，国家级大学生创新创业训练计划项目
 - 2022 — 2023，基于深度学习的篮🐔🏀球动作计数系统设计与实现，优秀毕业设计提名
 - 2021 — 2022，基于光度立体视觉的微小缺陷检测系统设计，国家级大学生创新创业训练计划项目
 
 **获奖荣誉：**
+- 2024：CCF大模型安全挑战赛——通用的大模型目标劫持 全国第24名
 - 2023：2023中山大学（珠海校区）校园十大歌手（第4名）
 - 2023：2023中山大学校园歌手大赛总决赛优秀奖
 - 2023：上海市优秀毕业生
@@ -38,14 +39,20 @@ redirect_from:
 
   Jiachi Chen, <u>Qingyuan Zhong</u>, Yanlin Wang, Kaiwen Ning, Yongkun Liu, Zenan Xu, Zhe Zhao, Ting Chen, Zibin Zheng
 
-  In International Conference on Automated Software Engineering. (**ASE 2024, CCF-A**).
+  [The 39th ACM/IEEE International Conference on Automated Software Engineering **(ASE'24), CCF A**].
 
 
 - **Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**
 
   Shuo Yang, Xingwei Lin, Jiachi Chen, <u>Qingyuan Zhong</u>, Lei Xiao, Renke Huang, Yanlin Wang, Zibin Zheng
 
-  In International Conference on Software Engineering. (**ICSE 2025, CCF-A**).
+  [The 46th International Conference on Software Engineering **(ICSE'25), CCF A**]
+
+- **MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**
+
+  Kaiwen Ning, Jiachi Chen, <u>Qingyuan Zhong</u>, Tao Zhang, Yanlin Wang, Wei Li, Yu Zhang, Weizhe Zhang, Zibin Zheng
+
+  [arXiv:2408.01354.]
 
 **实习经历：**
 - 2022：浙江九州云信息科技有限公司，自动化运维开发
