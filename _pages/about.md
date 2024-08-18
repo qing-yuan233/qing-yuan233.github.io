@@ -15,7 +15,7 @@ redirect_from:
 **座右铭：** 我不想努力了
 
 **学术主页：**
-- Home Page: https://qing-yuan233.github.io/qingyuan-zhong.github.io/
+- Home Page: https://qing-yuan233.github.io
 - Google Scholar: https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN
 
 **科研项目：**
