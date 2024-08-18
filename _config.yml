@@ -12,9 +12,9 @@ title                    : "Qingyuan Zhong/Personal Homepage"
 title_separator          : "-"
 name                     : &name "钟青沅"
 description              : &description "简单介绍一下我自己"
-url                      : https://qing-yuan233.github.io/qingyuan-zhong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qing-yuan233.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qing-yuan233/qingyuan-zhong.github.io"
+repository               : "qing-yuan233/qing-yuan233.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
