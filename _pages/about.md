@@ -11,8 +11,8 @@ redirect_from:
 
 
 **学术主页：**
-- Home Page: https://qing-yuan233.github.io
-- Google Scholar: https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN
+- Home Page: [https://qing-yuan233.github.io]([https://qing-yuan233.github.io)
+- Google Scholar: [https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN)
 
 **科研项目：**
 - 2024 — 2025，大语言模型恶意内容防御与正向引导，腾讯犀牛鸟基金项目
