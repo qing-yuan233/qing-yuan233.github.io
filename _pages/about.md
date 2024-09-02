@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士一年级。2019-2023 就读于东华大学计算机科学与技术学院，获学士学位。研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
+我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。2019-2023 就读于东华大学计算机科学与技术学院，获学士学位。研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
 
 
 **学术主页：**
