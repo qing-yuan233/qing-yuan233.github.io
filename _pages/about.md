@@ -42,6 +42,12 @@ redirect_from:
 
   [arXiv:2408.01354.]
 
+- **Towards an Understanding of Large Language Models in Software Engineering Tasks**
+
+  Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
+
+  [arXiv:2308.11396.]
+
 **获奖荣誉：**
 - 2024：CCF大模型安全挑战赛——通用的大模型目标劫持 全国第24名
 - 2023：2023中山大学（珠海校区）校园十大歌手（第4名）
@@ -52,6 +58,7 @@ redirect_from:
 - 2021：2021年全国大学生数学建模竞赛上海市一等奖
 
 **实习经历：**
+- 2024：腾讯 AI Lab，自然语言处理（NLP）技术研究
 - 2022：浙江九州云信息科技有限公司，自动化运维开发
 
 **兴趣爱好：**
