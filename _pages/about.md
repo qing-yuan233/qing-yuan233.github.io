@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。2019-2023 就读于东华大学计算机科学与技术学院，获学士学位。研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
+我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
 
 
 **学术主页：**
@@ -40,34 +40,37 @@ redirect_from:
 
   Kaiwen Ning, Jiachi Chen, <u>Qingyuan Zhong</u>, Tao Zhang, Yanlin Wang, Wei Li, Yu Zhang, Weizhe Zhang, Zibin Zheng
 
-  [arXiv:2408.01354.]
+  [arXiv:2408.01354, under review]
 
 - **Towards an Understanding of Large Language Models in Software Engineering Tasks**
 
   Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
 
-  [arXiv:2308.11396.]
+  [arXiv:2308.11396, under review]
+
+
+**实习经历：**
+- 2024：Tencent 腾讯 AI Lab，自然语言处理（NLP）技术研究
+- 2022：浙江九州云信息科技有限公司，自动化运维开发
 
 **获奖荣誉：**
-- 2024：CCF大模型安全挑战赛——通用的大模型目标劫持 全国第24名
-- 2023：2023中山大学（珠海校区）校园十大歌手（第4名）
-- 2023：2023中山大学校园歌手大赛总决赛优秀奖
+- 2024：阿里天池：CCF大模型安全挑战赛—通用的大模型目标劫持 全国第24名
+- 2023：中山大学（珠海校区）校园十大歌手（第4名）
+- 2023：中山大学校园歌手大赛总决赛优秀奖
 - 2023：上海市优秀毕业生
 - 2022：第15届全国大学生计算机设计大赛一等奖（特色作品，全国前0.4%）
 - 2022：第14届上海市大学生计算机应用能力大赛一等奖（top1晋级）
-- 2021：2021年全国大学生数学建模竞赛上海市一等奖
+- 2021：全国大学生数学建模竞赛上海市一等奖
 
-**实习经历：**
-- 2024：腾讯 AI Lab，自然语言处理（NLP）技术研究
-- 2022：浙江九州云信息科技有限公司，自动化运维开发
 
 **兴趣爱好：**
-- 唱歌：擅长华语流行，喜欢周杰伦、苏打绿、汪苏泷、黄霄云、陶喆、王力宏
-- 摄影：佳能党，擅长人像
-- 健身：比较菜，卧推50kg做组
+- 唱歌：擅长华语流行/国风/古风，喜欢周杰伦、苏打绿、汪苏泷、陶喆。曾多次参与校内外演出
+- 画画：擅长漫画手绘。幼年曾于《漫画派对》读者专栏发布《植物大战僵尸》同人四格漫画；创作《地下城与勇士》同人剧情单行本漫画十余册（未出版）
 - 游泳：养生蛙、自由泳、抬头蛙、仰蛙
-- 画画：擅长漫画抽象风格。幼年曾于《漫画派对》读者专栏发布过植物大战僵尸同人四格漫画
-- 博主：b站累计播放达100w+
+- 健身：比较菜，卧推50kg做组
+- 摄影：佳能党，擅长人像
+- 博主：全网累计播放达100万+
+- 追番：唯一本命《四月是你的谎言》
 
 
 
