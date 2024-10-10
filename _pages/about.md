@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
+我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。我的导师是[陈嘉弛](https://jiachi-chen.github.io/)。我的研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
 
+**教育经历：**
+- **中山大学**
 
-**学术主页：**
-- Home Page: [https://qing-yuan233.github.io]([https://qing-yuan233.github.io)
-- Google Scholar: [https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=rKr5c1oAAAAJ&hl=zh-CN)
+  2023—至今，硕士，软件工程
+- **东华大学**
+
+  2019—2023，学士，软件工程
+
 
 **科研项目：**
 - 2024 — 2025，大语言模型恶意内容防御与正向引导，腾讯犀牛鸟基金项目
@@ -54,11 +58,13 @@ redirect_from:
 - 2022：浙江九州云信息科技有限公司，自动化运维开发
 
 **获奖荣誉：**
+- 2024：中山大学研究生一等奖学金
 - 2024：百度商业AI技术创新大赛—行业智能体搭建 冠军
 - 2024：阿里天池CCF大模型安全挑战赛—通用的大模型目标劫持 全国第24名
 - 2023：中山大学（珠海校区）校园十大歌手（第4名）
 - 2023：中山大学校园歌手大赛总决赛优秀奖
 - 2023：上海市优秀毕业生
+- 2023；东华大学一等奖学金
 - 2022：第15届全国大学生计算机设计大赛一等奖（特色作品，全国前0.4%）
 - 2022：第14届上海市大学生计算机应用能力大赛一等奖（top1晋级）
 - 2021：全国大学生数学建模竞赛上海市一等奖
