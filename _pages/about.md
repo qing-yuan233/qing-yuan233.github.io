@@ -44,7 +44,7 @@ redirect_from:
 
 - **Towards an Understanding of Large Language Models in Software Engineering Tasks**
 
-  Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
+  Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Jiachi Chen, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
 
   [arXiv:2308.11396, under review]
 
