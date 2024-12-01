@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。我的导师是[陈嘉弛](https://jiachi-chen.github.io/)。我的研究方向和兴趣为 SE4AI，AI4SE，Software Engineering， Large Language Model (LLM) Safety 和 Vocal Music。
+我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。我的导师是[陈嘉弛](https://jiachi-chen.github.io/)。我的研究方向和兴趣为 Large Language Model (LLM) Safety，SE4AI，AI4SE，Software Engineering 和 Vocal Music。
 
 **教育经历：**
 - **中山大学**，2023—至今，软件工程，工学硕士
@@ -50,10 +50,12 @@ redirect_from:
 
 
 **实习经历：**
-- 2024：Tencent 腾讯 安全算法组，自然语言处理（NLP）技术研究
+- 2024：Tencent 腾讯，大语言模型安全算法研究
 - 2022：浙江九州云信息科技有限公司，自动化运维开发
 
 **获奖荣誉：**
+- 2024：DataCon2024大数据安全分析竞赛软件供应链安全决赛三等奖
+- 2024：中山大学招联金融奖学金
 - 2024：中山大学研究生一等奖学金
 - 2024：百度商业AI技术创新大赛—行业智能体搭建 冠军
 - 2024：阿里天池CCF大模型安全挑战赛—通用的大模型目标劫持 全国第24名
