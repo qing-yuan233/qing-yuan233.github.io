@@ -46,7 +46,7 @@ redirect_from:
 
   Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Jiachi Chen, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
 
-  [arXiv:2308.11396, under review]
+  [Empirical Software Engineering **(EMSE), CCF B**]
 
 
 **实习经历：**
