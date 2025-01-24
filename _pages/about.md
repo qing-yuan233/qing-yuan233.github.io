@@ -48,9 +48,11 @@ redirect_from:
 
   [Empirical Software Engineering (EMSE'24), CCF B]
 
+**学术服务：**
+- 2025 — 至今：Chinese Journal of Electronics (CJE) 审稿人
 
 **实习经历：**
-- 2024 — 2025：Tencent 腾讯，大语言模型安全算法研究
+- 2024 — 至今：Tencent 腾讯，大语言模型安全算法研究
 
 **获奖荣誉：**
 - 2024：DataCon2024大数据安全分析竞赛软件供应链安全决赛三等奖
