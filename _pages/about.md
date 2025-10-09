@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士二年级。我的导师是[陈嘉弛](https://jiachi-chen.github.io/)教授。我的研究方向和兴趣为 Large Language Model (LLM) Safety，Software Engineering 和 Vocal Music。
+我是**钟青沅（Qingyuan Zhong）**，目前就读于中山大学软件工程学院，硕士三年级。我的导师是[陈嘉弛](https://jiachi-chen.github.io/)老师和[王焱林](https://yanlin.info/)老师。我的研究方向和兴趣为 Large Language Model (LLM) Safety，Software Engineering 和 Vocal Music。
 
 **教育经历：**
 - **中山大学**，2023—至今，软件工程，工学硕士
@@ -36,32 +36,32 @@ redirect_from:
 
   [The 46th International Conference on Software Engineering **(ICSE'25), CCF A**]
 
-- **MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**
-
-  Kaiwen Ning, Jiachi Chen, <u>Qingyuan Zhong</u>, Tao Zhang, Yanlin Wang, Wei Li, Yu Zhang, Weizhe Zhang, Zibin Zheng
-
-  [arXiv:2408.01354, under review]
-
 - **Towards an Understanding of Large Language Models in Software Engineering Tasks**
 
   Zibin Zheng, Kaiwen Ning, <u>Qingyuan Zhong</u>, Jiachi Chen, Wenqing Chen, Lianghong Guo, Weicheng Wang, Yanlin Wang
 
   [Empirical Software Engineering (EMSE'24), CCF B]
 
+- **MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**
+
+  Kaiwen Ning, Jiachi Chen, <u>Qingyuan Zhong</u>, Tao Zhang, Yanlin Wang, Wei Li, Yu Zhang, Weizhe Zhang, Zibin Zheng
+
+  [arXiv:2408.01354, under review]
+
+
 **学术服务：**
 - 2025 — 至今：Chinese Journal of Electronics (CJE) 审稿人
 
 **实习经历：**
-- 2024 — 至今：Tencent 腾讯，大语言模型安全算法研究
+- 2024 — 2025：Tencent 腾讯，大语言模型安全算法研究
 
 **获奖荣誉：**
 <!-- - 2025：ETH HANGZHOU HACKATHON AI x Crypto 赛道 前13名 -->
+- 2024、2025：研究生国家奖学金 推荐名额
+- 2024、2025：中山大学研究生一等奖学金
 - 2025：中山大学一星级志愿者（累计志愿时长100+小时）
-- 2024：DataCon2024大数据安全分析竞赛软件供应链安全决赛三等奖
-- 2024：研究生国家奖学金 推荐名额
-- 2024：中山大学招联金融奖学金
-- 2024：中山大学研究生一等奖学金
-- 2024：百度商业AI技术创新大赛—行业智能体搭建 冠军
+- 2024：招联金融奖学金
+- 2024：百度商业AI技术创新大赛—行业智能体搭建 全国冠军
 - 2024：阿里天池CCF大模型安全挑战赛—通用的大模型目标劫持 全国第24名
 - 2023：中山大学（珠海校区）校园十大歌手（第4名）
 - 2023：中山大学校园歌手大赛总决赛优秀奖
@@ -71,9 +71,10 @@ redirect_from:
 - 2022：第14届上海市大学生计算机应用能力大赛一等奖（top1晋级）
 - 2021：全国大学生数学建模竞赛上海市一等奖
 
+<!-- - 2024：DataCon2024大数据安全分析竞赛软件供应链安全决赛三等奖 -->
 
 **兴趣爱好：**
-- 唱歌：擅长华语流行/国风/古风，喜欢周杰伦、苏打绿、汪苏泷、陶喆。曾多次参与校内外演出
+- 唱歌：擅长华语流行/国风/古风，喜欢周杰伦、王力宏、陶喆、林俊杰、苏打绿、汪苏泷等。曾多次参与校内外演出
 - 画画：擅长漫画手绘。幼年曾于《漫画派对》读者专栏发布《植物大战僵尸》同人四格漫画；创作《地下城与勇士》同人剧情单行本漫画十余册（未出版）
 - 游泳：养生蛙、自由泳、抬头蛙、仰蛙
 - 健身：比较菜，卧推50kg做组
