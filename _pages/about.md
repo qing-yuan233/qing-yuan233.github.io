@@ -17,6 +17,7 @@ redirect_from:
 - 2024 — 2025：Tencent 腾讯 TEG，大语言模型安全算法研究
 
 **科研项目：**
+- 2025，大语言模型安全评估测试基准 [SafetyBench](https://github.com/thu-coai/SafetyBench) Contributor
 - 2024 — 2025，大语言模型恶意内容防御与正向引导，腾讯犀牛鸟基金项目
 - 2023 — 2024，基于NLP和程序分析的DApp前后端不一致问题检测，蚂蚁集团科研横项
 - 2022 — 2023，PaperDevelop--基与版本管理的论文一站式培养系统，国家级大学生创新创业训练计划项目
